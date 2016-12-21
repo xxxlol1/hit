@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import urllib.request, re, os, time, random
 from bs4 import BeautifulSoup
 
